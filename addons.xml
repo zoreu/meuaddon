@@ -4,7 +4,7 @@
 	<extension point="xbmc.addon.repository" name="Repositório Teste">
 		<info compressed="false">http://raw.github.com/zoreu/meuaddon/master/addons.xml</info>
 		<checksum>http://raw.github.com/zoreu/meuaddon/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/zoreu/meuaddon/master/addons/</datadir>
+		<datadir zip="true">http://raw.github.com/zoreu/meuaddon/master/zip/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositório Teste</summary>
