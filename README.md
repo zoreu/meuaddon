@@ -14,4 +14,4 @@ Como Criar Addon para Kodi
 
 #### Proteger Arquivo default.py contra copia e proteção dos links
 
-### [Download](http://https://pyprotect.tk/index.php)
+### [pyprotect.tk](http://https://pyprotect.tk/index.php)
