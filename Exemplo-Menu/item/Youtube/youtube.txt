@@ -1,0 +1,7 @@
+<item>
+<title>BUILD TUGA BOX TV</title>
+<utube>gYnzpcdwSjY</utube>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<fanart>https://goo.gl/1y8V0J</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>

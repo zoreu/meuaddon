@@ -1,0 +1,23 @@
+<item>
+<title>Vevo 1</title>
+<link>https://link-do.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
+
+<item>
+<title>Vevo 2</title>
+<link>https://link-do.m3u8|User-Agent=ExoMedia</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
+
+<item>
+<title>Vevo 3 - Link .ts</title>
+<link>plugin://plugin.video.f4mTester/?url=LINK DO CANAL COM .ts NO FINAL</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
