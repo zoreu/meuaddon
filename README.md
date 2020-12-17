@@ -15,5 +15,3 @@ Como Criar Addon para Kodi
 ### [Download](http://raw.github.com/zoreu/meuaddon/master/download/plugin.video.testando-regex_full.zip)
 
 #### Proteger Arquivo default.py contra copia e proteção dos links
-
-### [pyprotect.tk](http://https://pyprotect.tk/index.php)
