@@ -11,6 +11,8 @@ Como Criar Addon para Kodi
 #### Modelo sem o menu favoritos
 ### [Download](http://raw.github.com/zoreu/meuaddon/master/download/addon_sem_favoritos.zip)
 
+#### Modelo com regex completo
+### [Download](http://raw.github.com/zoreu/meuaddon/master/download/plugin.video.testando-regex_full.zip)
 
 #### Proteger Arquivo default.py contra copia e proteção dos links
 
