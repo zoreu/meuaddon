@@ -13,5 +13,3 @@ Como Criar Addon para Kodi
 
 #### Modelo com regex completo
 ### [Download](http://raw.github.com/zoreu/meuaddon/master/download/plugin.video.testando-regex_full.zip)
-
-#### Proteger Arquivo default.py contra copia e proteção dos links
