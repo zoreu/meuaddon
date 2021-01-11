@@ -12,4 +12,4 @@ Como Criar Addon para Kodi
 ### [Download](http://raw.github.com/zoreu/meuaddon/master/download/addon_sem_favoritos.zip)
 
 #### Modelo com regex completo
-### [Download](http://raw.github.com/zoreu/meuaddon/master/download/plugin.video.testando-regex_full.zip)
+### [Download](http://raw.github.com/zoreu/meuaddon/master/download/plugin.video.testando-regex_full2.zip)
