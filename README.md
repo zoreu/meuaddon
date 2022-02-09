@@ -15,3 +15,6 @@ Como Criar Addon para Kodi
 
 #### Modelo Matrix (Kodi 19+) com regex
 ### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.testando2.matrix.zip)
+
+#### Modelo Gujal - Leia e Matrix (Kodi 18.9+) com regex completo
+### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro.zip)
