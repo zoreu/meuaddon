@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+  <title>filme teste</title>
+  <link>plugin://plugin.video.brplayer/?imdb=tt10648342</link>
+  <thumbnail></thumbnail>
+  <info>teste</info>
+</item>
+
+<item>
+  <title>serie teste</title>
+  <link>plugin://plugin.video.brplayer/?imdb=tt4052886&season=1&episode=1</link>
+  <thumbnail></thumbnail>
+  <info>teste</info>
+</item>
