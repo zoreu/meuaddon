@@ -8,7 +8,7 @@
 
 <item>
   <title>serie teste</title>
-  <link>plugin://plugin.video.brplayer/?imdb=tt4052886&season=1&episode=1</link>
+  <link>plugin://plugin.video.brplayer/?imdb=tt4052886&amp;season=1&amp;episode=1</link>
   <thumbnail></thumbnail>
   <info>teste</info>
 </item>
