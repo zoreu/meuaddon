@@ -27,7 +27,6 @@ CONFIGURAÇÕES DO CACHE PARA ADDON COM CACHE:
 Cache é um armazenamento temporario da requisição das paginas da hospedagem acelerando no proximo acesso
 
 ```python
-CACHE_MODE = True # ativa o cache
-CACHE_MODE = False # desativa o cache
+CACHE_MODE = True # True ativa o cache e False desativa o cache
 CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR, USE O GOOGLE PRA CONVERTER DIAS EM SEGUNDOS PARA AJUSTAR A GOSTO
 ```
