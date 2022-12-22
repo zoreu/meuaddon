@@ -18,3 +18,16 @@ Como Criar Addon para Kodi
 
 #### Modelo Gujal - Leia e Matrix (Kodi 18.9+) com regex completo (modelo template incluso)
 ### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro.zip)
+
+
+### Modelo Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+)
+### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro-cache.zip)
+
+CONFIGURAÇÕES DO CACHE PARA ADDON COM CACHE:
+Cache é um armazenamento temporario da requisição das paginas da hospedagem acelerando no proximo acesso
+
+```python
+CACHE_MODE = True # ativa o cache
+CACHE_MODE = False # desativa o cache
+CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR, USE O GOOGLE PRA CONVERTER DIAS EM SEGUNDOS PARA AJUSTAR A GOSTO
+```
