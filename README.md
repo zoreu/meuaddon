@@ -30,3 +30,6 @@ Cache é um armazenamento temporario da requisição das paginas da hospedagem a
 CACHE_MODE = True # True ativa o cache e False desativa o cache
 CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR E RENOVAR O CACHE, USE O GOOGLE PRA CONVERTER DIAS EM SEGUNDOS PARA AJUSTAR A GOSTO
 ```
+
+### Ofuscador para default (ajuda a evitar plagio de contudo e default)
+### [Download](https://github.com/zoreu/meuaddon/raw/master/download/encrypt_lambda.zip)
