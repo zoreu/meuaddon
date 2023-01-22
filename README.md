@@ -33,3 +33,8 @@ CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR E RENOVAR O CACHE, USE O GOOGLE PRA C
 
 ### Ofuscador para default (ajuda a evitar plagio de contudo e default)
 ### [Download](https://github.com/zoreu/meuaddon/raw/master/download/encrypt_lambda.zip)
+
+
+# veja tambem:
+
+plugin.video.anonym_player - https://github.com/zoreu/plugin.video.anonym_player
