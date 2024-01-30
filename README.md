@@ -30,6 +30,8 @@ Cache é um armazenamento temporario da requisição das paginas da hospedagem a
 CACHE_MODE = True # True ativa o cache e False desativa o cache
 CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR E RENOVAR O CACHE, USE O GOOGLE PRA CONVERTER DIAS EM SEGUNDOS PARA AJUSTAR A GOSTO
 ```
+### Modelo 2024 Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
+### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro_2024.zip)
 
 ### Ofuscador para default (ajuda a evitar plagio de conteudo e default)
 ### [Download](https://github.com/zoreu/meuaddon/raw/master/download/encrypt_lambda.zip)
