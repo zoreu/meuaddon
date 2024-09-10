@@ -36,8 +36,14 @@ CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR E RENOVAR O CACHE, USE O GOOGLE PRA C
 ### Modelo 2024 v3 (ULTIMA VERSÃO) Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
 ### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro2024_3.zip)
 
+### MODELO ADDON PRA LISTA IPTV COM EPG (2024:
+### [Visualizar](https://github.com/zoreu/plugin.video.kingiptv)
+
+
 ### Ofuscador para default (ajuda a evitar plagio de conteudo e default)
 ### [Download](https://github.com/zoreu/meuaddon/raw/master/download/encrypt_lambda.zip)
+
+
 
 
 # veja tambem:
