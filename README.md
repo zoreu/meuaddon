@@ -43,7 +43,7 @@ CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR E RENOVAR O CACHE, USE O GOOGLE PRA C
 ### [Download - 2025 (mega)](https://github.com/zoreu/meuaddon/raw/refs/heads/master/download/plugin.video.addon_example.zip)
 
 ### Modelo 2025 (SUPORTE A LINK MEGA E CODEBERG PRIVADO) v3 Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
-### [Download - 2025 (mega, codeberg privado)](https://github.com/zoreu/meuaddon/raw/refs/heads/master/download/plugin.video.addon_example_codeberg.zip)
+### [Download - 2025 (mega, codeberg repo privado)](https://github.com/zoreu/meuaddon/raw/refs/heads/master/download/plugin.video.addon_example_codeberg.zip)
 
 ### MODELO ADDON PRA LISTA IPTV COM EPG (2024):
 ### [Visualizar](https://github.com/zoreu/plugin.video.kingiptv)
