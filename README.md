@@ -31,25 +31,26 @@ CACHE_MODE = True # True ativa o cache e False desativa o cache
 CACHE_EXPIRE = 604800 # 7 DIAS PRA EXPIRAR E RENOVAR O CACHE, USE O GOOGLE PRA CONVERTER DIAS EM SEGUNDOS PARA AJUSTAR A GOSTO
 ```
 ### Modelo 2024 Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
-### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro_2024.zip)
+### [Download - 2024](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro_2024.zip)
 
 ### Modelo 2024 v3 Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
-### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro2024_3.zip)
+### [Download - 2024 V3](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro2024_3.zip)
 
 ### Modelo 2025 v4 com proxy - (ULTIMA VERSÃO) Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+)
-### [Download](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro-2025_proxy.zip)
+### [Download - 2025 v4](https://github.com/zoreu/meuaddon/raw/master/download/plugin.video.live.streamspro-2025_proxy.zip)
 
 ### Modelo 2025 (SUPORTE A LINK MEGA) v3 Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
-### [Download](https://github.com/zoreu/meuaddon/raw/refs/heads/master/download/plugin.video.addon_example.zip)
+### [Download - 2025 (mega)](https://github.com/zoreu/meuaddon/raw/refs/heads/master/download/plugin.video.addon_example.zip)
+
+### Modelo 2025 (SUPORTE A LINK MEGA E CODEBERG PRIVADO) v3 Gujal com cache, Leia,Matrix e Nexus - (Kodi 18.9+) - correção para kodi 18.9
+### [Download - 2025 (mega, codeberg privado)](https://github.com/zoreu/meuaddon/raw/refs/heads/master/download/plugin.video.addon_example_codeberg.zip)
 
 ### MODELO ADDON PRA LISTA IPTV COM EPG (2024):
 ### [Visualizar](https://github.com/zoreu/plugin.video.kingiptv)
 
 
 ### Ofuscador para default (ajuda a evitar plagio de conteudo e default)
-### [Download](https://github.com/zoreu/meuaddon/raw/master/download/encrypt_lambda.zip)
-
-
+### [Download - ofuscador](https://github.com/zoreu/meuaddon/raw/master/download/encrypt_lambda.zip)
 
 
 # veja tambem:
